@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: linear-gradient(135deg, #1d3557, #457b9d);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 70px; /* to account for fixed navbar */
+}
+
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-content {
+  padding: 100px 0;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
+
+.card {
+  background: white;
+  color: black;
+}
