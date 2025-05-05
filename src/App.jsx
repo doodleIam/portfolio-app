@@ -1,9 +1,9 @@
 import React from 'react';
 import NavbarComponent from './components/navbar';
 import About from './components/about';
-import Hero from './components/Hero';
+import Hero from './components/hero';
 import Projects from './components/Projects';
-import Contact from './components/Contact';
+import Contact from './components/contact';
 import Footer from './components/footer';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
